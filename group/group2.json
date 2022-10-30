@@ -1,0 +1,23 @@
+{
+    "version": "v2",
+    "content": [
+        {
+            "title": "闪烁之狐",
+            "avatar": "https://pic.rmb.bdstatic.com/bjh/415de4d5d462d6bd318c09824113e54e.jpeg",
+            "url": "https://blinkfox.github.io",
+            "description": "现实的抽象是语言，语言的抽象是程序，程序的抽象是数理逻辑，数理逻辑的抽象是超越认知的真理。"
+        },
+        {
+            "title": "夜法之书的Blog",
+            "avatar": "https://pic.rmb.bdstatic.com/bjh/858d9bb5d0293e40d7a416ca56df27c8.png",
+            "url": "https://blog.17lai.site",
+            "description": "嵌入式，Linux Kernel&Driver, PT, Docker, Nas等等"
+        },
+        {
+            "title": "xaoxuu",
+            "avatar": "https://pic.rmb.bdstatic.com/bjh/8c49a192d8d5f1dddac3912d7b812a52.jpeg",
+            "url": "https://xaoxuu.com",
+            "description": "代表作有：ProHUD、ValueX、Stellar、心率管家等"
+        }
+    ]
+}
