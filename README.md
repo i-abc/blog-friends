@@ -1,14 +1,15 @@
-# issues-json-generator
+# 友链数据源
 
-自动提取本仓库 issues 中的 JSON 代码块
+前端页面： https://xaoxuu.com/friends/
 
-## 使用方法
+## 什么类型的网站可以添加
 
-fork 本仓库，把 `config.yml` 配置改为自己的：
+必须同时满足：
 
-```yaml
-issues:
-  repo: xaoxuu/friends # 仓库持有者/仓库名
-  label: active # 筛选具有 active 标签的 issue ，取消此项则会提取所有 open 状态的 issue
-  sort: updated-desc # 排序，按最近更新，取消此项则按创建时间排序
-```
+1. 合法的、非营利性、无商业广告站点。
+2. 有实质性原创内容的个人博客或组织。
+3. 必须是 HTTPS 独立域名。
+
+## 如何添加
+
+按照 [Issue 模板](https://github.com/xaoxuu/friends/issues/new/choose) 内容填写并提交，审核通过3分钟后博客即可看到友链。
