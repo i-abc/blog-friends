@@ -12,4 +12,4 @@
 
 ## 如何添加
 
-按照 [Issue 模板](https://github.com/i-abc/blog-friends/issues/) 内容填写并提交，审核通过3分钟后博客即可看到友链。
+按照 [Issue 模板](https://github.com/i-abc/blog-friends/issues/) 内容填写并提交，审核通过 3 分钟后博客即可看到友链。
