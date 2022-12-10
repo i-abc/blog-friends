@@ -12,4 +12,4 @@
 
 ## 如何添加
 
-按照 [Issue 模板](https://github.com/i-abc/blog-friends/issues/) 内容填写并提交，审核通过一段时间后，在博客即可看到友链。
+按照 [Issue 模板](https://github.com/i-abc/blog-friends/issues/) 内容填写并提交，待审核通过、CDN 刷新后，在[博客友链页](https://www.shifeiti.com/friends/)即可看到友链。
