@@ -15,7 +15,7 @@ body:
         - required: true
           label: 必须是 HTTPS 站点。
         - required: true
-          label: 关于广告，合法、不影响正常阅读。
+          label: 关于广告，需合法，且不影响正常阅读。
   - type: textarea
     id: config-file
     validations:
