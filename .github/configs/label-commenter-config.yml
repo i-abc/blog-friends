@@ -9,10 +9,18 @@ labels:
           
           **🖖 博主您好，还请多多关照**
 
-          您可以前往 [https://www.shifeiti.com/friends/](https://www.shifeiti.com/friends/) 看到您的网站。
+          稍后片刻，待缓存刷新后，您可以前往 [https://www.shifeiti.com/friends/](https://www.shifeiti.com/friends/) 看到您的网站。
 
-          > 如果您的站点信息发生了变动，请直接修改这个 [issue](https://github.com/i-abc/blog-friends/issues) 的内容。
+          > 如果您的站点信息发生了变动，请直接修改对应 [issue](https://github.com/i-abc/blog-friends/issues) 的内容。
+  
+  - name: 'checklist'
+    labeled:
+      issue:
+        body: |
+          **🥹 很遗憾，部分条件未满足～**
 
+          很感谢您的支持，但请等待交换友链的前置条件均已满足后再进行操作。
+  
   - name: 'suspend'
     labeled:
       issue:
@@ -27,7 +35,7 @@ labels:
     labeled:
       issue:
         body: |
-          **⚠️ 抱歉，您的网站打不开，现已下架。**
+          **⚠️ 抱歉，您的网站打不开，现已暂时下架。**
           
           **😢 请问是遇见什么困难了吗，若能帮忙，在所不辞**
 
