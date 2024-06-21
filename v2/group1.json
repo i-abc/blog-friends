@@ -1,0 +1,35 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "杨柳自留地",
+      "url": "https://www.ripic.site",
+      "avatar": "https://images-us2.dev86.site/common/g.gif",
+      "description": "爱女装"
+    },
+    {
+      "title": "Icemoon",
+      "url": "https://blog.icemoon.club",
+      "avatar": "https://pic.imgdb.cn/item/6381abff16f2c2beb15e922b.jpg",
+      "description": "西电摸鱼王"
+    },
+    {
+      "title": "SuperBart/Benderblog's",
+      "url": "https://legacy.superbart.xyz",
+      "avatar": "https://legacy.superbart.xyz/favicon.ico",
+      "description": "Bender is a lone wolf, a solitary eagle."
+    },
+    {
+      "title": "是非题",
+      "url": "https://www.shifeiti.com",
+      "avatar": "https://other.shifeiti.com/logo/logo.png",
+      "description": "记录生活，热爱跑步，学习 FPGA 中"
+    },
+    {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn",
+      "avatar": "https://api.iconify.design/line-md:sunny-outline-twotone-loop.svg?color=%23eb4600",
+      "description": "星语日点灯"
+    }
+  ]
+}
